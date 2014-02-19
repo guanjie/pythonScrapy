@@ -1,0 +1,46 @@
+# IPython log file
+
+sel.xpath("//div[@name='content']")
+sel.xpath("//div[@name='content']").extract()
+sel.xpath("//div[@class='content']")
+sel.xpath("//div[@class='content']").extract()
+sel.xpath("//div[@class='content']").extract() >> temp.txt
+
+entries = sel.xpath("//div[@class='content']").xpath("p[@class='row']")
+for entry in entries:
+    print entry.extract()
+    print '\n'
+    
+for entry in entries:
+    print entry.xpath("a/@href").extract()
+    print '\n'
+    
+for entry in entries:
+    print entry.xpath("a/@href").extract()
+    print entry.xpath("a/@href/text()").extract()
+    
+for entry in entries:
+    print entry.xpath("a/@href").extract()
+    print entry.xpath("a/text()").extract()
+    
+for entry in entries:
+    print entry.xpath("a/@href").extract()
+    print entry.xpath("a/small/text()").extract()
+    
+for entry in entries:
+    print entry.xpath("a/@href").extract()
+    print entry.xpath("a/small").extract()
+    
+for entry in entries:
+    print entry.xpath("a/@href").extract()
+    print entry.xpath("text()").extract()
+    
+for entry in entries:
+    print entry.xpath("a/@href").extract()
+    print entry.xpath("text()").extract()
+    
+get_ipython().magic(u'hist ')
+get_ipython().magic(u'logstart')
+
+
+

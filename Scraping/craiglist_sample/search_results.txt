@@ -1,0 +1,587 @@
+<a href="/pen/sci/4339252874.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb 18</span>  <a href="/pen/sci/4339252874.html">Associate
+Scientist, Biomarkers -- 14193</a> 
+</span> <span class="l2">   <span
+class="pnr"> <small> (foster city)</small> <span class="px"> <span class="p">
+</span></span>
+</span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+</span>
+</p>
+<p class="row" data-latitude="37.5537738346959" data-longitude="-122.269995615253" data-pid="4339127944">
+    <a href="/pen/eng/4339127944.html" class="i" data-id="0:00I0I_2dSPS9sEzSJ"></a> <span class="star"></span>  <span class="pl">
+<span class="date">Feb 18</span>  <a href="/pen/eng/4339127944.html">Data
+Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (san
+mateo)</small> <span class="px"> <span class="p"> pic\xa0<a href="#"
+class="maptag" data-pid="4339127944">map</a></span></span>
+    </span> <a class="gc" href="/eng/" data-cat="eng">internet engineering</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.4815238567338" data-longitude="-122.209090201634" data-pid="4337643308">
+    <a href="/pen/sof/4337643308.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 17</span>  <a href="/pen/sof/4337643308.html">Nominum- Growing Stable "Big Data" firm seeks
+Sr.  Data Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(redwood city)</small> <span class="px"> <span class="p"> <a href="#"
+class="maptag" data-pid="4337643308">map</a></span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.7724718250855" data-longitude="-122.414667458516" data-pid="4333889042">
+    <a href="/sfc/sof/4333889042.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="/sfc/sof/4333889042.html">Data Scientist</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span
+class="p"> <a href="#" class="maptag"
+data-pid="4333889042">map</a></span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+
+
+
+<p class="row" data-pid="4333804049">
+    <a href="/eby/sci/4333804049.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="/eby/sci/4333804049.html">Scientist 1, Translational Pharmacology</a>
+    </span> <span class="l2">   <span class="pnr"> <small> (Berkeley, CA)</small>
+<span class="px"> <span class="p"> img</span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+
+
+
+<p class="row" data-pid="4333714012">
+    <a href="/sfc/eng/4333714012.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="/sfc/eng/4333714012.html">Modeling Scientist/Engineer</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span
+class="px"> <span class="p"> img</span></span>
+    </span> <a class="gc" href="/eng/" data-cat="eng">internet engineering</a> 
+    </span>
+</p>
+<p class="row" data-pid="4333559689">
+    <a href="/sfc/sof/4333559689.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="/sfc/sof/4333559689.html">Data Scientist at Yelp!</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4332610223">
+    <a href="/eby/egr/4332610223.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 13</span>  <a href="/eby/egr/4332610223.html">Environmental Project Manager - Superfund Site
+Remediation Experience</a> 
+    </span> <span class="l2">   <span class="pnr">
+<small> (walnut creek)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a>
+    </span>
+</p>
+<p class="row" data-pid="4330615129">
+    <a href="/eby/egr/4330615129.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 12</span>  <a href="/eby/egr/4330615129.html">Research Engineer/Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (fremont / union city / newark)</small>
+<span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4328154472">
+    <a href="/sfc/mar/4328154472.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb 10</span>  <a href="/sfc/mar/4328154472.html">Nurture Analytics
+and Predictive Modeling Data Scientist</a> 
+    </span> <span class="l2">   <span
+class="pnr"> <small> (San Francisco, CA)</small> <span class="px"> <span
+class="p"> img</span></span>
+    </span> <a class="gc" href="/mar/" data-cat="mar">marketing/advertising/PR</a> 
+    </span>
+</p>
+<p class="row" data-pid="4328023511">
+    <a href="/pen/sci/4328023511.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 10</span>  <a href="/pen/sci/4328023511.html">Research Scientist I, Biologics and Target
+Biology -- 14883</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(foster city)</small> <span class="px"> <span class="p"> </span></span>
+    </span>
+    <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4328006392">
+    <a href="/pen/sci/4328006392.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb 10</span>  <a href="/pen/sci/4328006392.html">Associate
+Scientist I, Oncology &amp; Inflammation -- 14542</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (foster city)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4327993660">
+    <a href="/pen/sci/4327993660.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 10</span>  <a href="/pen/sci/4327993660.html">Research Scientist I, Oncology/Inflammation
+Biology -- 14202</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(foster city)</small> <span class="px"> <span class="p"> </span></span>
+    </span>
+    <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4327987101">
+    <a href="/pen/sci/4327987101.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb 10</span>  <a href="/pen/sci/4327987101.html">Senior Scientist,
+Oncology Biomarkers -- 14137</a> 
+    </span> <span class="l2">   <span class="pnr">
+<small> (foster city)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4327963691">
+    <a href="/pen/sci/4327963691.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb 10</span>  <a href="/pen/sci/4327963691.html">Senior Research
+Scientist II, Biologics and Target Biology - 13838</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (foster city)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.5537738346959" data-longitude="-122.269995615253" data-pid="4327627300">
+    <a href="/pen/eng/4327627300.html" class="i" data-id="0:00I0I_2dSPS9sEzSJ"></a> <span class="star"></span>  <span class="pl">
+<span class="date">Feb 10</span>  <a href="/pen/eng/4327627300.html">Data
+Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (san
+mateo)</small> <span class="px"> <span class="p"> pic\xa0<a href="#"
+class="maptag" data-pid="4327627300">map</a></span></span>
+    </span> <a class="gc" href="/eng/" data-cat="eng">internet engineering</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.4815238567338" data-longitude="-122.209090201634" data-pid="4327478906">
+    <a href="/pen/sof/4327478906.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 10</span>  <a href="/pen/sof/4327478906.html">Nominum- Growing Stable "Big Data" firm seeks
+Sr.  Data Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(redwood city)</small> <span class="px"> <span class="p"> <a href="#"
+class="maptag" data-pid="4327478906">map</a></span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4324001772">
+    <a href="/eby/sof/4324001772.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb  7</span>  <a href="/eby/sof/4324001772.html">Game Data
+Scientist (Big Fish / Self Aware Games Studio)</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (oakland lake merritt / grand)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4323909204">
+    <a href="/sfc/sof/4323909204.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb  7</span>  <a href="/sfc/sof/4323909204.html">Data Scientist</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (San Francisco, CA)</small> <span class="px"> <span
+class="p"> img</span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-latitude="32.8874909598425" data-longitude="-117.179723972026" data-pid="4322760638">
+    <a href="/sfc/sci/4322760638.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb  6</span>  <a href="/sfc/sci/4322760638.html">In vitro diagnostic R&amp;D Scientist</a>
+    </span> <span class="l2">   <span class="pnr"> <small> (San Diego,
+California)</small> <span class="px"> <span class="p"> <a href="#"
+class="maptag" data-pid="4322760638">map</a></span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.5506798626023" data-longitude="-122.327577873661" data-pid="4322567133">
+    <a href="/pen/sof/4322567133.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb  6</span>  <a href="/pen/sof/4322567133.html">Senior Data Scientist  (Machine Learning )</a>
+    </span> <span class="l2">   <span class="pnr"> <small> (san mateo)</small> <span
+class="px"> <span class="p"> <a href="#" class="maptag"
+data-pid="4322567133">map</a></span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4320727119">
+    <a href="/eby/sci/4320727119.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb  5</span>  <a href="/eby/sci/4320727119.html">Technical Scientist - Korea Market</a> 
+    </span>
+    <span class="l2">   <span class="pnr"> <small> (fremont / union city /
+newark)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.9253369648182" data-longitude="-122.378170046968" data-pid="4320529600">
+    <a href="/eby/sci/4320529600.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb  5</span>  <a href="/eby/sci/4320529600.html">Associate Director -- Therapeutic Genome
+Modification</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(richmond / point / annex)</small> <span class="px"> <span class="p"> <a
+href="#" class="maptag" data-pid="4320529600">map</a></span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4319876007">
+    <a href="/eby/egr/4319876007.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb  5</span>  <a href="/eby/egr/4319876007.html">Associate
+Scientist - Advanced Thin Film Coating Development</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (concord / pleasant hill / martinez)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4319876008">
+    <a href="/eby/sci/4319876008.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb  5</span>  <a href="/eby/sci/4319876008.html">Associate Scientist - Advanced Thin Film Coating
+Development</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (concord
+/ pleasant hill / martinez)</small> <span class="px"> <span class="p">
+</span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4319579593">
+    <a href="/pen/sci/4319579593.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb  4</span>  <a href="/pen/sci/4319579593.html">Molecular Development Scientist (DNA
+fingerprinting / STR analysis)</a> 
+    </span> <span class="l2">   <span
+class="pnr"> <small> (south san francisco)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.4815238567338" data-longitude="-122.209090201634" data-pid="4318904849">
+    <a href="/pen/sof/4318904849.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb  4</span>  <a href="/pen/sof/4318904849.html">Nominum- Growing Stable "Big Data" firm seeks
+Sr.  Data Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(redwood city)</small> <span class="px"> <span class="p"> <a href="#"
+class="maptag" data-pid="4318904849">map</a></span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4318858249">
+    <a href="/sby/sci/4318858249.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb  4</span>  <a href="/sby/sci/4318858249.html">POSTDOCTORAL
+SCIENTIST </a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(milpitas)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4317832966">
+    <a href="/pen/sci/4317832966.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Feb  3</span>  <a href="/pen/sci/4317832966.html">Sr. Scientist -
+Metabolsim (DMPK)</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(south san francisco)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.5537738346959" data-longitude="-122.269995615253" data-pid="4317749974">
+    <a href="/pen/eng/4317749974.html" class="i" data-id="0:00I0I_2dSPS9sEzSJ"></a>
+    <span class="star"></span>  <span class="pl"> <span class="date">Feb  3</span>
+    <a href="/pen/eng/4317749974.html">Data Scientist</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (san mateo)</small> <span class="px"> <span
+class="p"> pic\xa0<a href="#" class="maptag"
+data-pid="4317749974">map</a></span></span>
+    </span> <a class="gc" href="/eng/" data-cat="eng">internet engineering</a> 
+    </span>
+</p>
+<p class="row" data-pid="4313317693">
+    <a href="/sfc/sof/4313317693.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 31</span>  <a href="/sfc/sof/4313317693.html">Data Scientist at Yelp!</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4310294682">
+    <a href="/eby/sof/4310294682.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 29</span>  <a href="/eby/sof/4310294682.html">Game Data Scientist (Big Fish / Self Aware Games
+Studio)</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (oakland lake
+merritt / grand)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a>
+    </span>
+</p>
+<p class="row" data-latitude="37.4745910674131" data-longitude="-122.147898309117" data-pid="4310124297">
+    <a href="/pen/sci/4310124297.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 29</span>  <a href="/pen/sci/4310124297.html">Full time Research Scientist at a Molecular
+Diagnostic Company (QuanDx</a> 
+    </span> <span class="l2">   <span class="pnr">
+<small> (menlo park)</small> <span class="px"> <span class="p"> <a href="#"
+class="maptag" data-pid="4310124297">map</a></span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4309060619">
+    <a href="/sby/hea/4309060619.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Jan 28</span>  <a href="/sby/hea/4309060619.html">Part-time Lab
+Assistant - San Jose</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(san jose north)</small> <span class="px"> <span class="p"> img</span></span>
+    </span> <a class="gc" href="/hea/" data-cat="hea">healthcare</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.7508713162103" data-longitude="-122.415297712091" data-pid="4307558839">
+    <a href="/sfc/hea/4307558839.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 27</span>  <a href="/sfc/hea/4307558839.html">CLINICAL LABORATORY SUPERVISOR</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (mission district)</small> <span
+class="px"> <span class="p"> <a href="#" class="maptag"
+data-pid="4307558839">map</a></span></span>
+    </span> <a class="gc" href="/hea/" data-cat="hea">healthcare</a> 
+    </span>
+</p>
+<p class="row" data-pid="4307268322">
+    <a href="/sfc/mar/4307268322.html" class="i"></a> <span class="star"></span>
+    <span class="pl"> <span class="date">Jan 27</span>  <a href="/sfc/mar/4307268322.html">Senior Data Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (financial district)</small> <span
+class="px"> <span class="p"> img</span></span>
+    </span> <a class="gc" href="/mar/" data-cat="mar">marketing/advertising/PR</a> 
+    </span>
+</p>
+<p class="row" data-pid="4307141389">
+    <a href="/sby/sof/4307141389.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Jan 27</span>  <a href="/sby/sof/4307141389.html">Research
+Scientist, Computer Vision</a> 
+    </span> <span class="l2">   <span class="pnr">
+<small> (cupertino)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a>
+    </span>
+</p>
+<p class="row" data-pid="4307084942">
+    <a href="/eby/sof/4307084942.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 27</span>  <a href="/eby/sof/4307084942.html">Data Scientist/Engineer</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (oakland downtown)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.4815238567338" data-longitude="-122.209090201634" data-pid="4307044074">
+    <a href="/pen/sof/4307044074.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 27</span>  <a href="/pen/sof/4307044074.html">Nominum- Growing Stable "Big Data" firm seeks
+Sr.  Data Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(redwood city)</small> <span class="px"> <span class="p"> <a href="#"
+class="maptag" data-pid="4307044074">map</a></span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4306358075">
+    <a href="/sby/sci/4306358075.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Jan 26</span>  <a href="/sby/sci/4306358075.html">Senior
+Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(sunnyvale)</small> <span class="px"> <span class="p"> img</span></span>
+    </span>
+    <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4301308806">
+    <a href="/sfc/acc/4301308806.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Jan 23</span>  <a href="/sfc/acc/4301308806.html">Senior Data
+Scientist / Data Analyst @ GSN Games!</a> 
+    </span> <span class="l2">   <span
+class="pnr"> <small> (SOMA / south beach)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/acc/" data-cat="acc">accounting/finance</a> 
+    </span>
+</p>
+<p class="row" data-pid="4301054094">
+    <a href="/sfc/sof/4301054094.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 23</span>  <a href="/sfc/sof/4301054094.html">Data Scientist at Yelp!</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4300237267">
+    <a href="/sfc/sci/4300237267.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 22</span>  <a href="/sfc/sci/4300237267.html">ICP-MS Chemist</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (Clovis, CA)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.7914940238829" data-longitude="-122.401775908126" data-pid="4300198652">
+    <a href="/sfc/sof/4300198652.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 22</span>  <a href="/sfc/sof/4300198652.html">Senior Data Scientist </a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (SOMA / south beach)</small> <span
+class="px"> <span class="p"> <a href="#" class="maptag"
+data-pid="4300198652">map</a></span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4299907243">
+    <a href="/pen/sci/4299907243.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 22</span>  <a href="/pen/sci/4299907243.html">Bioinformatics Quality Scientist-Medical
+Genetics</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (redwood
+city)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4299907248">
+    <a href="/pen/sof/4299907248.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span
+class="date">Jan 22</span>  <a href="/pen/sof/4299907248.html">Bioinformatics
+Quality Scientist-Medical Genetics</a> 
+    </span> <span class="l2">   <span
+class="pnr"> <small> (redwood city)</small> <span class="px"> <span class="p">
+</span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4298105557">
+    <a href="/sby/sof/4298105557.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 21</span>  <a href="/sby/sof/4298105557.html">Software Scientist</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (santa clara)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-pid="4296912348">
+    <a href="/eby/bus/4296912348.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 20</span>  <a href="/eby/bus/4296912348.html">Lead Business Intelligence Developer</a> 
+    </span>
+    <span class="l2">   <span class="pnr"> <small> (Bay Area)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/bus/" data-cat="bus">business/mgmt</a> 
+    </span>
+</p>
+<p class="row" data-pid="4296912350">
+    <a href="/eby/sof/4296912350.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 20</span>  <a href="/eby/sof/4296912350.html">Lead Business Intelligence Developer</a> 
+    </span>
+    <span class="l2">   <span class="pnr"> <small> (Bay Area)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<p class="row" data-latitude="37.4815238567338" data-longitude="-122.209090201634" data-pid="4295618689">
+    <a href="/pen/sof/4295618689.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 19</span>  <a href="/pen/sof/4295618689.html">Nominum- Growing Stable "Big Data" firm seeks
+Sr.  Data Scientist</a> 
+    </span> <span class="l2">   <span class="pnr"> <small>
+(redwood city)</small> <span class="px"> <span class="p"> <a href="#"
+class="maptag" data-pid="4295618689">map</a></span></span>
+    </span> <a class="gc" href="/sof/" data-cat="sof">software/QA/DBA/etc</a> 
+    </span>
+</p>
+<h4 class="ban nearby"><span class="bantext">Few LOCAL results found. Here are some
+from NEARBY areas</span></h4> 
+<p class="row" data-latitude="36.1389118554759" data-longitude="-119.894684484107" data-pid="4333642361">
+    <a href="http://sacramento.craigslist.org/egr/4333642361.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="http://sacramento.craigslist.org/egr/4333642361.html">Mid-Sr.
+Civil/Ag/Environmental Engineer</a> 
+    </span> <span class="l2">   <span
+class="pnr"> <small> (Hanford, CA)</small> <span class="px"> <span class="p"> <a
+href="#" class="maptag" data-pid="4333642361">map</a></span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4290271991">
+    <a href="http://modesto.craigslist.org/sci/4290271991.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="http://modesto.craigslist.org/sci/4290271991.html">F/T Clinical Lab
+Scientist - Generalist</a> 
+    </span> <span class="l2">   <span class="pnr">
+<small> (Manteca)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4290266733">
+    <a href="http://modesto.craigslist.org/sci/4290266733.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="http://modesto.craigslist.org/sci/4290266733.html">F/T Clinical Lab
+Scientist - Generalist</a> 
+    </span> <span class="l2">   <span class="pnr">
+<small> (Stockton)</small> <span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4329543479">
+    <a href="http://stockton.craigslist.org/egr/4329543479.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="http://stockton.craigslist.org/egr/4329543479.html">Environmental Project
+Manager (EPA Superfund Remediation Projects)</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (Walnut Creek, CA)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4329535910">
+    <a href="http://monterey.craigslist.org/egr/4329535910.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 14</span>  <a href="http://monterey.craigslist.org/egr/4329535910.html">Environmental Project
+Manager (EPA Superfund Remediation Project)</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (Walnut Creek, CA)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4332608485">
+    <a href="http://sacramento.craigslist.org/hea/4332608485.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 13</span>  <a href="http://sacramento.craigslist.org/hea/4332608485.html">MASSIVE HIRING
+MEDICAL ASSISTANT(CNA,HHA,RN,LPN,LVN)&amp; DENTAL ASSISTANT</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (sacramento)</small> <span class="px">
+<span class="p"> </span></span>
+    </span> <a class="gc" href="/hea/" data-cat="hea">healthcare</a> 
+    </span>
+</p>
+<p class="row" data-pid="4317971480">
+    <a href="http://monterey.craigslist.org/sci/4317971480.html" class="i"></a>
+    <span class="star"></span>  <span class="pl"> <span class="date">Feb 10</span>
+    <a href="http://monterey.craigslist.org/sci/4317971480.html">Environmental
+Project Manager with EPA Superfund Site RAC experience</a> 
+    </span> <span class="l2">   <span class="pnr"> <small> (Walnut Creek, CA)</small> <span
+class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4317969771">
+    <a href="http://monterey.craigslist.org/egr/4317969771.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 10</span>  <a href="http://monterey.craigslist.org/egr/4317969771.html">Environmental Project
+Manager with EPA Superfund Site RAC experience</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (Walnut Creek, CA)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4321059930">
+    <a href="http://monterey.craigslist.org/egr/4321059930.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Feb 10</span>  <a href="http://monterey.craigslist.org/egr/4321059930.html">Environmental Project
+Manager with EPA Superfund Site RAC experience</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (Walnut Creek, CA)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4265417958">
+    <a href="http://monterey.craigslist.org/egr/4265417958.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 27</span>  <a href="http://monterey.craigslist.org/egr/4265417958.html">Environmental Project
+Manager (EPA Superfund Remediation Project)</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (Walnut Creek, CA)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4265455620">
+    <a href="http://stockton.craigslist.org/egr/4265455620.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 27</span>  <a href="http://stockton.craigslist.org/egr/4265455620.html">Environmental Project
+Manager (EPA Superfund Remediation Project)</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (Walnut Creek, CA)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>
+<p class="row" data-pid="4306958768">
+    <a href="http://monterey.craigslist.org/sci/4306958768.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 27</span>  <a href="http://monterey.craigslist.org/sci/4306958768.html">Scientist I/II
+Genomics &amp; Oncology</a> 
+    </span> <span class="l2">   <span class="pnr">
+<small> (Pleasanton, CA)</small> <span class="px"> <span class="p">
+</span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4301234439">
+    <a href="http://monterey.craigslist.org/edu/4301234439.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 23</span>  <a href="http://monterey.craigslist.org/edu/4301234439.html">Assistant Project
+Scientist - Department of Molecular, Cell, and Devel</a> 
+    </span> <span class="l2">   <span class="pnr">  <span class="px"> <span class="p">
+</span></span>
+    </span> <a class="gc" href="/edu/" data-cat="edu">education/teaching</a> 
+    </span>
+</p>
+<p class="row" data-pid="4300226781">
+    <a href="http://sacramento.craigslist.org/sci/4300226781.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 22</span>  <a href="http://sacramento.craigslist.org/sci/4300226781.html">ICP-MS Chemist</a>
+    </span> <span class="l2">   <span class="pnr"> <small> (Clovis, CA)</small>
+<span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4298551107">
+    <a href="http://stockton.craigslist.org/sci/4298551107.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 21</span>  <a href="http://stockton.craigslist.org/sci/4298551107.html">ICP-MS Chemist</a>
+    </span> <span class="l2">   <span class="pnr"> <small> (Clovis, CA)</small>
+<span class="px"> <span class="p"> </span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-latitude="36.8253152940057" data-longitude="-119.680226381401" data-pid="4298547042">
+    <a href="http://modesto.craigslist.org/sci/4298547042.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 21</span>  <a href="http://modesto.craigslist.org/sci/4298547042.html">ICP-MS Chemist</a>
+    </span> <span class="l2">   <span class="pnr"> <small> (Clovis, CA)</small>
+<span class="px"> <span class="p"> <a href="#" class="maptag"
+data-pid="4298547042">map</a></span></span>
+    </span> <a class="gc" href="/sci/" data-cat="sci">science/biotech</a> 
+    </span>
+</p>
+<p class="row" data-pid="4248883310">
+    <a href="http://monterey.craigslist.org/egr/4248883310.html" class="i"></a> <span class="star"></span>  <span class="pl"> <span class="date">Jan 16</span>  <a href="http://monterey.craigslist.org/egr/4248883310.html">Environmental Project
+Manager (EPA Superfund Remediation Project)</a> 
+    </span> <span class="l2">
+<span class="pnr"> <small> (Walnut Creek, CA)</small> <span class="px"> <span
+class="p"> </span></span>
+    </span> <a class="gc" href="/egr/" data-cat="egr">architect/engineer/CAD</a> 
+    </span>
+</p>\n
