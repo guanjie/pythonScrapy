@@ -1,3 +1,0 @@
-# This question looks useless.
-
-
